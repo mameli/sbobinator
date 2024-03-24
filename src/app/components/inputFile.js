@@ -13,6 +13,8 @@ const FileAudioInput = ({ clientKey, setSbobinatura }) => {
             return;
         }
 
+        setSbobinatura("loading");
+
         const formData = new FormData();
         formData.append("model", "whisper-1");
         formData.append("file", file);
