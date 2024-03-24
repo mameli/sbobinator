@@ -1,4 +1,5 @@
 # Sbobinator
+![Screenshot 2024-03-24 at 18 53 35](https://github.com/mameli/sbobinator/assets/7951066/d360c2e4-e68f-45d3-bde2-d1e4a50a6bf9)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
