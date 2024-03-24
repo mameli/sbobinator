@@ -38,7 +38,7 @@ const FileAudioInput = ({ clientKey, setSbobinatura }) => {
                     messages: [
                         {
                             role: "system",
-                            content: "You are a talented assistant who can summarise text. Give a general summary of the text and then create a simple bullet point list of the most important aspects of a text.",
+                            content: "You are a talented assistant who can summarise text. Give a general summary of the text and then create a simple bullet point list of the most important aspects of a text. Use strictly the same language as the text.",
                         },
                         {
                             role: "user",
